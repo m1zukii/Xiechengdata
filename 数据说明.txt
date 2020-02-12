@@ -1,0 +1,13 @@
+scene100.sql 
+评论大于100的景点 有详情数据
+sceneall.sql
+所有景点 没有详情数据
+scenecenter.sql citycenters.sql provincecenter.sql
+携程api的景点 城市中心点 省份中心点的经纬度
+city.sql
+城市
+comment
+评论数据
+
+链接：https://pan.baidu.com/s/1z65N2ShOXHYCFTxzdx3XQw 
+提取码：zu66 
